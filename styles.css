@@ -7,3 +7,45 @@
     font-family: 'JetBrains Mono';
     src : url(fonts/JetBrainsMono-SemiBold.woff2)
 }
+
+#topMenu {
+    margin-left: 12.5%;
+    height: 50px;
+    width: 75%;
+}
+
+#topMenu ul li {
+    list-style: none;
+    color: black;
+    background-color: white;
+    float: left;
+    line-height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    width: 25%;
+}
+
+#topMenu .menuLink {
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "AppleSDGothic";
+}
+
+#topMenu .menuLink:hover {
+    background-color: #A020F0;
+    color: white;
+}
+
+#title {
+    font-family: "JetBrains Mono";
+    text-align: center;
+    background-color: #A374DB;
+    color: white;
+    display: block;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
