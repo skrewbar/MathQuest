@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AppleSDGothic';
+    src : url(fonts/AppleSDGothicNeoSB.ttf)
+}
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src : url(fonts/JetBrainsMono-SemiBold.woff2)
+}
